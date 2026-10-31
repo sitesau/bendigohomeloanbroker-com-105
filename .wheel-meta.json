@@ -1,0 +1,22 @@
+{
+  "wheel_id": 580,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-com-105",
+  "project": "home-loan-brokers-bendigo-cost-guide-75ada6553d38b9f401fe60e315",
+  "parent_t1_ref": "bendigohomeloanbroker-com-152",
+  "node_role": "feeder",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "home loan brokers bendigo cost guide",
+  "intended_url": "https://sitesau.github.io/bendigohomeloanbroker-com-105/",
+  "tier": "T2",
+  "writeback_nonce": "06a26d6f7f004005",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/home-loan-brokers-bendigo-baf8e13c310084c3793827a9cb1758e20c979/",
+      "anchor": "Home Loan Brokers Bendigo: A Borrower's Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
